@@ -1,2 +1,2 @@
 # ttoryeot
-https://i0kyung.github.io/ttoryeot/index
+https://i0kyung.github.io/ttoryeot
